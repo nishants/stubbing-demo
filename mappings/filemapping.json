@@ -1,11 +1,11 @@
 {
     "request": {
         "method": "GET",
-        "url": "/frommapping"
+        "url": "/fromfile"
     },
     "response": {
         "status": 200,
-        "body": "Hello world, from mapping json!",
+        "bodyFileName": "aresponse.json",
         "headers": {
             "Content-Type": "text/plain"
         }
